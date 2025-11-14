@@ -270,3 +270,6 @@ const C_VERDE = 0x00c853;
 const C_NARAN = 0xff8c00;
 const C_ROJO  = 0xff0000;
 ```
+## Video Final
+Finalmente, filmé un vídeo de los resultados obtenidos, para mostrar la tarea ante los compañeros. Podéis decargar el [vídeo resultado aquí](https://github.com/guillecab7/IG-S8/blob/main/Video_Resultado.mp4)
+__NOTA__: Aunque en el código la velocidad de simulación vaya a 1día/s, como el profe nos pidió un vídeo de menos de 30s, para que quedase un vídeo más corto se cambió la `SPEED_MIN_PER_SEC=2880`, que equivale a 2días/s.
